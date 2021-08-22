@@ -1,0 +1,14 @@
+// SPDX-License-Identifier: AGPL-3.0-or-later
+// Copyright © 2021 Pablo Hörtner <redtux@pm.me>
+//
+// Visual Studio Code IDE · Get your FLOSS copy at https://vscodium.com/ ;)
+// Recommended extensions
+{
+  "recommendations": [
+    "davidanson.vscode-markdownlint",
+    "editorconfig.editorconfig",
+    "vivaxy.vscode-conventional-commits",
+    "vscode.github",
+    "vscode.markdown"
+  ]
+}

@@ -1,0 +1,16 @@
+// SPDX-License-Identifier: AGPL-3.0-or-later
+// Copyright © 2021 Pablo Hörtner <redtux@pm.me>
+//
+// Visual Studio Code IDE · Get your FLOSS copy at https://vscodium.com/ ;)
+// Place your settings in this file to overwrite default and user settings.
+{
+  "eslint.enable": false,
+  "files.autoSave": "off",
+  "conventionalCommits.scopes": [
+    "api",
+    "ci",
+    "conf",
+    "deps",
+    "seo"
+  ]
+}
