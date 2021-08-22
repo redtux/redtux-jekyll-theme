@@ -17,6 +17,22 @@
 
 ## 🖼️Boilerplate
 
+As you can see, the base structure of this theme is pretty simple and easy to extend.
+
+```bash
+├── assets
+├── Gemfile
+├── _includes
+├── _layouts
+│   ├── default.html
+│   ├── page.html
+│   └── post.html
+├── redtux-jekyll-theme.gemspec
+└── _sass
+
+4 directories, 5 files
+```
+
 In case you need to adopt this theme, just follow these simple principles.
 
 - Put your layouts in `_layouts`.
