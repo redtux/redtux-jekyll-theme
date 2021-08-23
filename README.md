@@ -77,8 +77,8 @@ theme: redtux-jekyll-theme
 Bug reports and pull requests are welcome on GitHub at
 <https://github.com/redtux/redtux-jekyll-theme>.
 This project is intended to be a safe, welcoming space for collaboration,
-and contributors are expected to adhere to the
-[Contributor Covenant](http://contributor-covenant.org) code of conduct.
+and contributors are expected to adhere to our
+[Code of Conduct](code_of_conduct.md).
 
 ## 🎨Development
 
