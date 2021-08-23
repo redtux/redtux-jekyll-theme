@@ -118,6 +118,11 @@ limitations under the License.
 Each file should contain an [SPDX License Identifier] in its header - i.e. in
 the first or (in case of scripts) second line, followed by a copyright notice.
 
+If you distribute this documentation, or parts of it, apart from this project,
+please ensure that the following attribution note (CC BY-SA 4.0) is included:
+
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/redtux/redtux-jekyll-theme">redtux-jekyll-theme</a> © 2021 by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://twitter.com/redtux">Pablo Hörtner</a> is licensed under <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a></p>
+
 [SPDX License Identifier]: https://spdx.dev/ids/ "SPDX IDs"
 [GNU Affero General Public License]: https://www.gnu.org/licenses/agpl-3.0.html "GNU AGPL 3.0"
 [Creative Commons Attribution-ShareAlike]: https://spdx.org/licenses/CC-BY-SA-4.0 "CC BY-SA 4.0"
