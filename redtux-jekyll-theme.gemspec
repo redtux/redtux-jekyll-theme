@@ -15,7 +15,9 @@ Gem::Specification.new do |spec|
 
   spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r!^(assets|_layouts|_includes|_sass|LICENSE|README|_config\.yml)!i) }
 
+  spec.add_runtime_dependency "bootstrap", "~> 5.1"
   spec.add_runtime_dependency "execjs", "~> 2.7.0"
   spec.add_runtime_dependency "github-pages", "~> 218"
+  spec.add_runtime_dependency "jekyll-autoprefixer", "~> 1.0"
   spec.add_runtime_dependency "kramdown-parser-gfm", "~> 1.1"
 end

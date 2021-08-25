@@ -9,3 +9,10 @@
 
 source "https://rubygems.org"
 gemspec
+gem "github-pages", group: :jekyll_plugins
+group :jekyll_plugins do
+  gem "bootstrap", "~> 5.1"
+  gem "execjs", "~> 2.7.0"
+  gem "jekyll-autoprefixer", "~> 1.0"
+  gem "kramdown-parser-gfm", "~> 1.1"
+end
