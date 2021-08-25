@@ -19,3 +19,6 @@ _site/
 .bundle/
 Gemfile.lock
 vendor/
+
+# Ignore files generated the Ruby package manager
+*.gem
